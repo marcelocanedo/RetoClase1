@@ -27,6 +27,6 @@ locals {
     service-rg-prd = "gp-prd-rg"
     service-dev-enviroment = "dev"
     service-prd-enviroment = "prd"
-
+# test cambio
 }
 
